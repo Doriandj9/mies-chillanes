@@ -2,7 +2,7 @@
 namespace includes;
 
 /**
- * @param $saludo debe ser un strig
+ * @var $saludo es un indicador de string
  */
 
 function Saludo(string $saludo): string

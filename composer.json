@@ -1,6 +1,6 @@
 {
     "name": "henry/municipio",
-    "description": "Es un sistema para contabilizar los productos que ingresan y que salen",
+    "description": "Es un sistema para contabilizar los productos que ingresan y que salen de la institucion",
     "type": "project",
     "license": "GNU",
     "autoload": {
@@ -13,5 +13,17 @@
     "minimum-stability": "dev",
     "require": {
         "dompdf/dompdf": "dev-master"
-    }
+    },
+    "authors": [
+        {
+            "name": "Dorian Armijos",
+            "email": "dorian9armijos@gmail.com",
+            "role": "Desarrollador"
+        },
+        {
+            "name": "Henry Sinche",
+            "email": "henrysinche99@gmail.com",
+            "role": "Desarrollador"
+        }
+    ]
 }
