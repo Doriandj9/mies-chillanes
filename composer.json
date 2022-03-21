@@ -1,0 +1,17 @@
+{
+    "name": "henry/municipio",
+    "description": "Es un sistema para contabilizar los productos que ingresan y que salen",
+    "type": "project",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/",
+            "models\\": "models/",
+            "includes\\": "includes/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "dompdf/dompdf": "dev-master"
+    }
+}
